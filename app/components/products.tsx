@@ -94,7 +94,7 @@ export default function Products() {
                       {product?.description}
                     </Dialog.Description>
                     <a
-                      className='inline-flex w-full justify-center rounded-md border border-transparent bg-stone-900 px-4 py-2  text-base font-medium text-white shadow-sm hover:brightness-125 focus:outline-none focus:ring-2 focus:ring-stone-500 focus:ring-offset-2'
+                      className='inline-flex w-full justify-center rounded-md border-2  bg-black border-white/50 px-4 py-2  text-base font-medium text-white shadow-sm hover:brightness-125 focus:outline-none focus:ring-2 focus:ring-stone-500 focus:ring-offset-2'
                       href={product?.link}>
                       Learn more
                     </a>

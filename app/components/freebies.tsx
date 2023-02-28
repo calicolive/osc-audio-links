@@ -94,7 +94,7 @@ export default function Freebies() {
                       {freebie?.description}
                     </Dialog.Description>
                     <a
-                      className='inline-flex w-full justify-center rounded-md border border-transparent bg-stone-900 px-4 py-2  text-base font-medium text-white shadow-sm hover:brightness-125 focus:outline-none focus:ring-2 focus:ring-stone-500 focus:ring-offset-2'
+                      className='inline-flex w-full justify-center rounded-md  bg-black border-2 border-white/50 px-4 py-2  text-base font-medium text-white shadow-sm hover:brightness-200 focus:outline-none focus:ring-2 focus:ring-stone-500 focus:ring-offset-2'
                       href={freebie?.link}>
                       Free download
                     </a>
