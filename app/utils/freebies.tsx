@@ -50,46 +50,4 @@ export const freebies = [
     link: 'https://oscaudio.gumroad.com/l/PocketOscillator?layout=profile',
     img: PocketOscillator,
   },
-  // {
-  //   id: 3,
-  //   name: 'Dusty Rings Keys',
-  //   description: (
-  //     <div className='flex flex-col space-y-4'>
-  //       <div>
-  //         Pocket Oscillator is a macOS, Windows, and iOS compatible stereo
-  //         capable oscilllator. Designed for VST3, AU, AUv3, and stand-alone use.
-  //       </div>
-  //       <div>
-  //         Complete with oscilloscope and controllable Wave, Frequency, & Volume.
-  //         Test all your gear with Sine, Square, Saw, and Noise,
-  //         oscillators.Plug-in GUI resizable and automatable parameters designed
-  //         to recall with your various sessions.
-  //       </div>
-  //       <div>iOS coming soon!</div>
-  //     </div>
-  //   ),
-  //   link: 'https://www.99sounds.org/dusty-rings-keys/',
-  //   img: 'https://images.pexels.com/photos/13354477/pexels-photo-13354477.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-  // },
-  // {
-  //   id: 4,
-  //   name: 'Through Zero EP',
-  //   description: (
-  //     <div className='flex flex-col'>
-  //       <div>
-  //         Pocket Oscillator is a macOS, Windows, and iOS compatible stereo
-  //         capable oscilllator. Designed for VST3, AU, AUv3, and stand-alone use.
-  //       </div>
-  //       <div>
-  //         Complete with oscilloscope and controllable Wave, Frequency, & Volume.
-  //         Test all your gear with Sine, Square, Saw, and Noise,
-  //         oscillators.Plug-in GUI resizable and automatable parameters designed
-  //         to recall with your various sessions.
-  //       </div>
-  //       <div>iOS coming soon!</div>
-  //     </div>
-  //   ),
-  //   link: 'https://www.99sounds.org/through-zero-ep/',
-  //   img: 'https://images.pexels.com/photos/3672355/pexels-photo-3672355.jpeg?auto=compress&cs=tinysrgb&w=1600',
-  // },
 ];

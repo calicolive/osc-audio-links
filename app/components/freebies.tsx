@@ -69,7 +69,7 @@ export default function Freebies() {
             className='relative z-10'
             open={open}
             onClose={handleClose}>
-            <div className='fixed inset-0 bg-stone-900 bg-opacity-75 transition-opacity' />
+            <div className='fixed inset-0 bg-neutral-900 bg-opacity-75 transition-opacity' />
             <div className='fixed inset-0 z-10 overflow-y-auto'>
               <div className='flex min-h-full justify-center p-4 text-center items-center '>
                 <Dialog.Panel className='relative transform overflow-hidden rounded-lg bg-black px-4 pt-5 pb-4 text-left shadow-xl transition-all my-8 w-full max-w-lg text-white'>
