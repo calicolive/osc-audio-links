@@ -82,7 +82,10 @@ export default function Freebies() {
                         />
                       </button>
                     </div>
-                    <img
+                    <motion.img
+                      initial={{ opacity: 0 }}
+                      animate={{ opacity: 1 }}
+                      transition={{ duration: 0.5, ease: 'easeInOut' }}
                       className='w-full rounded-lg object-cover'
                       src={freebie?.img}
                       alt='placeholder'
