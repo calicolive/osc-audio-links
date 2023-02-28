@@ -1,5 +1,11 @@
 import { motion } from 'framer-motion';
-import { FaEnvelope, FaFacebook, FaInstagram, FaYoutube } from 'react-icons/fa';
+import {
+  FaDiscord,
+  FaEnvelope,
+  FaFacebook,
+  FaInstagram,
+  FaYoutube,
+} from 'react-icons/fa';
 import Logo from 'public/images/osc-logo.png';
 
 const socials = [
@@ -23,6 +29,12 @@ const socials = [
   },
   {
     id: 4,
+    icon: <FaDiscord className='h-6 w-6 hover:text-stone-400' />,
+    link: 'https://discord.gg/9jFt9Mec2V',
+    name: 'Discord',
+  },
+  {
+    id: 5,
     icon: <FaEnvelope className='h-6 w-6 hover:text-stone-400' />,
     link: 'mailto:oscaudio.co@gmail.com',
     name: 'Email',
